@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "bukrs-derive",
+    "bukrs",
+    "bukrs-core"
+]
